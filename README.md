@@ -1,4 +1,4 @@
-# Stuff
+# Scratchpad
 
 **NOTE:** I'll just use this spare space to write about things that I think about but dont come up in conversations often.
 Sometimes my thoughts aren't elaborate enough to warrant a blog post in on itself.
