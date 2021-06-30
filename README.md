@@ -50,5 +50,6 @@ engine.
   
 </details>
 
-Handy counter to gauge the number of eyse on this page:
+Handy counter to gauge the number of eyes on this page:
+
 ![](https://komarev.com/ghpvc/?username=your-github-username)
