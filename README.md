@@ -11,8 +11,9 @@ I find it very interesting that video games today often try to emulate artifacts
 then developers would kill to get rid of.
 The CRT screen shader is one of them. 
 I wrote one for one of my (~~now abandoned~~) side projects, and I remember being happy about the way it turned out.
+Here is an old gif of the said game:
 
-![My bullet hell](/bullet_hell.gif)
+<img src="./bullet_hell.gif" width="50%" height="50%" />
 
 The above shader displays two of my favorite effects that can be impressive when done correctly:
 1. the CRT screen bend.
