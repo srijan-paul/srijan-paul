@@ -3,7 +3,7 @@
 **NOTE:** I'll just use this spare space to write about things that I think about but dont come up in conversations often.
 Sometimes my thoughts aren't elaborate enough to warrant a blog post in on itself.
 
-#### #1 On CRT screens and shaders.
+### #1 On CRT screens and shaders.
 <details>
 <summary>Click to read</summary>
 
@@ -16,13 +16,13 @@ Here is an old gif of the said game:
 <img src="./bullet_hell.gif" width="50%" height="50%" />
 
 The above shader displays two of my favorite effects that can be impressive when done correctly:
-1. the CRT screen bend.
-2. Chromatic Abberation.
+1. The [CRT](https://en.wikipedia.org/wiki/Cathode-ray_tube) screen bend.
+2. [Chromatic Abberation.](https://en.wikipedia.org/wiki/Chromatic_aberration)
 
 It also has some scanlines going on, but they're not tuned as well as I'd like, and are a trivial
 effect to implement.
 
-Why did older displays have curved screens you ask?
+### Why did older displays have curved screens you ask?
 
 To my knowledge, CRT screens worked by shooting a cathode ray that would traverse the phospor screen horizontally and
 vertically at the same time.
@@ -47,8 +47,7 @@ As for scanlines, they're just periodically occuring horizontal lines timed with
 
 I used LSL and Lua (LOVE) to build the game in that screenshot, but the same can be done in any shading language and any game
 engine.
-
-  
+ 
 </details>
 
 Handy counter to gauge the number of eyes on this page:
