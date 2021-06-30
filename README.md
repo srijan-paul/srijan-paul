@@ -5,7 +5,7 @@ Sometimes my thoughts aren't elaborate enough to warrant a blog post in on itsel
 
 ### #1 On CRT screens and shaders.
 <details>
-<summary>Click to read</summary>
+<summary>Click to expand</summary>
 
 I find it very interesting that video games today often try to emulate artifacts of the past that 
 then developers would kill to get rid of.
