@@ -5,14 +5,14 @@ Sometimes my thoughts aren't elaborate enough to warrant a blog post in on itsel
 
 #### #1 On CRT screens and shaders.
 <details>
-<summary>read</summary>
+<summary>Click to read</summary>
 
 I find it very interesting that video games today often try to emulate artifacts of the past that 
 then developers would kill to get rid of.
 The CRT screen shader is one of them. 
 I wrote one for one of my (~~now abandoned~~) side projects, and I remember being happy about the way it turned out.
 
-![My bullet hell](https://imgur.com/yi0Mrpc.gif)
+![My bullet hell](/bullet_hell.gif)
 
 The above shader displays two of my favorite effects that can be impressive when done correctly:
 1. the CRT screen bend.
@@ -33,7 +33,7 @@ the origin of the cathode ray, and hence the image would be distorted heavily. T
 angles to perfectly offset the distortion. 
 
 This challenge in production and engineering from the gone era is now an artifact video games introduce overhead to emulate!
-Retro and otherwise. Pretty neat, no?
+Retro and otherwise. Pretty neat, right?
 
 Since It's getting pretty late in the night at the time of me writing this, 
 I'll leave this great explanation on chromatic aberration by an underrated youtuber, Pixel Prophecy:
