@@ -1,11 +1,6 @@
 # Scratchpad
 
-**NOTE:** I'll just use this spare space to write about things that I think about but dont come up in conversations often.
-Sometimes my thoughts aren't elaborate enough to warrant a blog post in on itself. 
-
-If you want to leave a comment on my rambling, you could leave them on the commits as a dirty hack.
-If you **really** want to leave a comment, open an issue. If you **really really** want to leave a comment, twitter/mail?
-
+A list of thoughts that aren't not elaborate enough to warrant a blog post, but interesting enough to be written down.
 ### #1 On CRT screens and shaders.
 <details>
 <summary>Click to expand</summary>
