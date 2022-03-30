@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=your-github-username)
 # Scratchpad
 
 A list of thoughts that aren't not elaborate enough to warrant a blog post, but interesting enough to be written down.
@@ -49,7 +50,3 @@ engine.
 </details>
 
 ---
-
-### Handy counter to gauge the number of eyes on this page:
-
-![](https://komarev.com/ghpvc/?username=your-github-username)
