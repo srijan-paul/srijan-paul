@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=srijan-paul)
 # Scratchpad
 
 A list of thoughts that aren't not elaborate enough to warrant a blog post, but interesting enough to be written down.
