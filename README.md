@@ -1,8 +1,9 @@
 ## injuly
 
-<video autoplay loop muted width="150px" style="margin-bottom: 20px">
+<video autoplay loop muted width="150px">
     <source src="https://user-uploads.perchance.org/file/da1bf91d3531f0c92e59e6db38e44176.webm">
 </video>
+
 
 I like systems programming and functional languages.
 Professionally, I've worked on **web servers (and pages)**, **compilers**, **static analyzers**, and other miscellany.
