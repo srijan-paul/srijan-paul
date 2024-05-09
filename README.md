@@ -1,6 +1,6 @@
 ## injuly
 
-<video autoplay loop muted width="150px">
+<video autoplay loop muted>
     <source src="https://user-uploads.perchance.org/file/da1bf91d3531f0c92e59e6db38e44176.webm">
 </video>
 
