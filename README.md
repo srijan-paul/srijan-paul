@@ -9,7 +9,7 @@ I like systems programming and functional languages.
 Professionally, I've worked on **web servers**, **SPAs**, **compilers**, **static analyzers**, and other miscellany.
 
 Interests:
-- Game development
+- Game dev, compilers, type systems.
 - Pixel art
 - Shin Honkaku
 - Functional programming
