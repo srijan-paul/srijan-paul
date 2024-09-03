@@ -6,7 +6,7 @@
 
 
 I like systems programming and functional languages.
-Professionally, I've worked on **web servers**, **SPAs**, **compilers**, **static analyzers**, and other miscellany.
+Professionally, I've worked on **compilers**, **web services**, **SPAs**, **static analyzers**, and other miscellany.
 
 Interests:
 - Game dev, compilers, type systems, databases.
