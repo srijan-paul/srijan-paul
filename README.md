@@ -14,7 +14,7 @@ Interests:
 - Shin Honkaku
 - Functional programming
 
-
+I am slowly migrating my code from here to [codeberg](https://codeberg.org/injuly).
 
 ## Microblog
 
