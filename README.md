@@ -8,8 +8,10 @@
 I like systems programming and functional languages.
 Professionally, I've worked on **compilers**, **web services**, **SPAs**, **static analyzers**, and other miscellany.
 
-Aside from $DAYJOB, I'm currently working on the [Kiesel](https://kiesel.dev) JavaScript engine,
-and Jam – a high performance JS toolchain built from the ground up.
+Aside from $DAYJOB, I'm currently working on:
+- The [Kiesel](https://kiesel.dev) JavaScript engine,
+- Jam – a high performance JS toolchain built from the ground up.
+- Improving [ZLS](https://github/zigtools/zls).
 
 Interests:
 - Game dev, compilers, type systems, databases.
