@@ -11,7 +11,7 @@ Professionally, I've worked on **compilers**, **web services**, **SPAs**, **stat
 Outside of my day job, I'm currently working on:
 - The [Kiesel](https://kiesel.dev) JavaScript engine.
 - Jam – a high performance JS toolchain built from the ground up.
-- Improving [the Zig Language Server](https://github/zigtools/zls/).
+- Improving [the Zig Language Server](https://github.com/zigtools/zls/).
 
 Interests:
 - Game dev, compilers, type systems, databases.
