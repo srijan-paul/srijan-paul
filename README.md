@@ -1,9 +1,5 @@
 ## injuly
 
-<video autoplay loop muted>
-    <source src="https://user-uploads.perchance.org/file/da1bf91d3531f0c92e59e6db38e44176.webm">
-</video>
-
 
 I like systems programming and functional languages.
 Professionally, I've worked on **compilers**, **web services**, **SPAs**, **static analyzers**, and other miscellany.
@@ -13,13 +9,7 @@ Outside of my day job, I'm currently working on:
 - [Jam](https://github.com/srijan-paul/jam) – a high performance JS toolchain built from the ground up.
 - Improving [the Zig Language Server](https://github.com/zigtools/zls/).
 
-Interests:
-- Game dev, compilers, type systems, databases.
-- Pixel art
-- Shin Honkaku
-- Functional programming
-
-I am slowly migrating my code from here to [codeberg](https://codeberg.org/injuly).
+Slowly migrating my code from here to [codeberg](https://codeberg.org/injuly).
 
 ## Microblog
 
