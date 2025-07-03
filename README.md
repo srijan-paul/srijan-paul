@@ -1,14 +1,8 @@
 ## injuly
 
+I like computers, retro games, functional programming, compilers, ML, etc.
 
-I like systems programming and functional languages.
-Professionally, I've worked on **compilers**, **web services**, **SPAs**, **static analyzers**, and other miscellany.
-
-Outside of my day job, I'm currently working on:
-- The [Kiesel](https://kiesel.dev) JavaScript engine.
-- [Jam](https://github.com/srijan-paul/jam) – a high performance JS toolchain built from the ground up.
-- Improving [the Zig Language Server](https://github.com/zigtools/zls/).
-
+Occassionally, I work on [Kiesel JS engine](https://kiesel.dev), [Jam](https://github.com/srijan-paul/jam), [the Zig Language Server](https://github.com/zigtools/zls/).
 Slowly migrating my code from here to [codeberg](https://codeberg.org/injuly).
 
 ## Microblog
