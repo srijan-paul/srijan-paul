@@ -1,6 +1,6 @@
 ## injuly
 
-I like computers, retro games, functional programming, compilers, ML, etc.
+I like computers, retro games, deep learning, functional programming, compilers, ML, etc.
 
 Occassionally, I work on [Kiesel JS engine](https://kiesel.dev), [Jam](https://github.com/srijan-paul/jam), [the Zig Language Server](https://github.com/zigtools/zls/).
 Slowly migrating my code from here to [codeberg](https://codeberg.org/injuly).
