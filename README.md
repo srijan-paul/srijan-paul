@@ -2,7 +2,7 @@
 
 I like computers, retro games, deep learning, functional programming, compilers, ML, etc.
 
-Currently working intelligent industrial manufacturing systems at [Pre6](https://pre6.ai).
+Currently building [Pre6](https://pre6.ai).
 
 Occasionally, I work on [Kiesel JS engine](https://kiesel.dev), [Jam](https://github.com/srijan-paul/jam), [the Zig Language Server](https://github.com/zigtools/zls/).
 Slowly migrating my code from here to [codeberg](https://codeberg.org/injuly).
